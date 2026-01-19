@@ -1,0 +1,21 @@
+OrderID,OrderDate,CustomerName,Country,State,City,Segment
+US-1001,2024-01-05,John Smith,USA,California,Los Angeles,Consumer
+US-1002,2024-02-10,Emily Davis,USA,Texas,Houston,Corporate
+US-1003,2024-03-08,Michael Lee,USA,New York,New York,Home Office
+US-1004,2024-04-12,Sarah Johnson,USA,Florida,Miami,Consumer
+US-1005,2024-05-15,Robert Brown,USA,Illinois,Chicago,Corporate
+US-1006,2024-06-18,Jessica Miller,USA,Arizona,Phoenix,Consumer
+US-1007,2024-07-10,William Jones,USA,Washington,Seattle,Home Office
+US-1008,2024-08-14,Ashley Garcia,USA,Nevada,Las Vegas,Consumer
+US-1009,2024-09-09,David Martinez,USA,Colorado,Denver,Corporate
+US-1010,2024-10-20,Jennifer Wilson,USA,Georgia,Atlanta,Consumer
+US-1011,2024-11-22,Thomas Anderson,USA,Ohio,Columbus,Home Office
+US-1012,2024-12-05,Patricia Thomas,USA,Massachusetts,Boston,Corporate
+US-1013,2024-01-18,Christopher Moore,USA,Michigan,Detroit,Consumer
+US-1014,2024-02-21,Linda Taylor,USA,Oregon,Portland,Home Office
+US-1015,2024-03-25,Daniel Harris,USA,Minnesota,Minneapolis,Consumer
+US-1016,2024-04-27,Barbara Clark,USA,Virginia,Richmond,Corporate
+US-1017,2024-05-06,Matthew Lewis,USA,New Jersey,Newark,Consumer
+US-1018,2024-06-30,Nancy Robinson,USA,Tennessee,Nashville,Home Office
+US-1019,2024-07-16,Anthony Walker,USA,Kentucky,Louisville,Consumer
+US-1020,2024-08-28,Karen Hall,USA,Oklahoma,Oklahoma City,Corporate

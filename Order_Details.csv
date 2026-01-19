@@ -1,0 +1,27 @@
+OrderID,Product,Category,SubCategory,Quantity,Sales,Profit
+US-1001,Wireless Mouse,Technology,Accessories,2,50,15
+US-1001,Laptop Sleeve,Technology,Accessories,1,25,8
+US-1002,Office Chair,Furniture,Chairs,1,350,60
+US-1002,Desk Lamp,Technology,Lighting,2,80,20
+US-1003,4K Monitor,Technology,Monitors,1,400,80
+US-1003,HDMI Cable,Technology,Accessories,3,30,9
+US-1004,Bluetooth Speaker,Technology,Audio,1,120,30
+US-1005,Printer,Furniture,Office Machines,1,200,25
+US-1005,Printer Paper,Office Supplies,Paper,5,40,10
+US-1006,USB Flash Drive,Technology,Storage,4,60,18
+US-1006,Webcam,Technology,Video,1,85,22
+US-1007,Standing Desk,Furniture,Desks,1,500,100
+US-1008,Desk Organizer,Office Supplies,Storage,2,35,10
+US-1008,Notebook Set,Office Supplies,Paper,3,20,5
+US-1009,Wireless Keyboard,Technology,Accessories,2,70,21
+US-1010,Smartphone,Technology,Mobiles,1,900,150
+US-1011,Table Lamp,Home Decor,Lighting,1,60,15
+US-1012,Monitor Stand,Technology,Accessories,1,45,12
+US-1013,Desk Chair Cushion,Furniture,Chairs,2,55,16
+US-1014,External Hard Drive,Technology,Storage,1,110,30
+US-1015,Wireless Headset,Technology,Audio,1,150,40
+US-1016,Bookshelf,Furniture,Shelves,1,220,50
+US-1017,Tablet,Technology,Mobiles,1,350,70
+US-1018,Ink Cartridge,Office Supplies,Printers,3,90,24
+US-1019,Smartwatch,Technology,Wearables,1,200,50
+US-1020,Desk Fan,Office Supplies,Electronics,2,75,18
